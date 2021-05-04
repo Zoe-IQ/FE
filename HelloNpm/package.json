@@ -1,5 +1,5 @@
 {
-  "name": "mynpm",
+  "name": "hello_zzs_npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "loadsh": "0.0.4",
     "lodash": "^4.17.21"
   }
 }
