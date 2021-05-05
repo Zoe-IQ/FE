@@ -1,0 +1,18 @@
+{
+  "name": "hello_npm_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node ./scripts/script1.js & node ./scripts/script2.js",
+    "test2": "node ./scripts/script1.js && node ./scripts/script2.js",
+    "test3": "node ./scripts/script3.js"
+  },
+  "myconfig": {
+    "age": 18
+  },
+  "myname": "zzs",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
